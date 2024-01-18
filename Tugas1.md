@@ -1,5 +1,4 @@
 # TugasIoT
-Tugas IoT
 
 • Definisi IoT :
 IoT adalah singkatan dari Internet of Things yang mengarah pada jaringan perangkat keras yang saling terhubung dan dapat berkomunikasi melalui internet. 
